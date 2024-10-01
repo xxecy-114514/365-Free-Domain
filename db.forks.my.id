@@ -1,0 +1,8 @@
+; ========== BEGIN ORGANIZATIONS ==============
+
+; (Example) [Your Linux Do account name]
+; Submitted by PAUSE [Your Linux Do account name] <LinuxDo@Example.com,https://linux.do/u/Example/summary>
+Example	86400   IN	NS	Example1.ns.cloudflare.com.
+Example	86400	IN	NS	Example2.ns.cloudflare.com.
+
+; ========== END ORGANIZATIONS ================
